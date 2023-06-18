@@ -1,6 +1,6 @@
-# Decentralized Escrow Application
+# Decentralized Escrow Application for Event Tickets (under development 🚧)
 
-This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
+This is an Escrow Dapp built with [Hardhat](https://hardhat.org/) and [React](https://react.dev/) That ensures trustless transactions for event tickets.
 
 ## Project Layout
 
